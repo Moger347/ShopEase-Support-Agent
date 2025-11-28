@@ -4,7 +4,6 @@ A smart AI-powered customer support chatbot built using Python, Streamlit, and M
 It answers FAQs and can escalate unresolved queries to a human support agent via email.
 
 
-
 🚀 Features
 
 💬 Real-time conversational chatbot  
@@ -26,7 +25,6 @@ Here are some sample questions users can ask the bot:
 "What payment methods do you accept?"
 "Can I cancel my order?"
 "I need a human agent."
-
 
 
 📁 Project Structure
