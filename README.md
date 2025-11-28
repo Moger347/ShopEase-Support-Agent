@@ -15,7 +15,6 @@ It answers FAQs and can escalate unresolved queries to a human support agent via
 ☁️ Deployable on Streamlit Cloud  
 
 
-
 💬 Example Queries
 
 Here are some sample questions users can ask the bot:
@@ -27,7 +26,6 @@ Here are some sample questions users can ask the bot:
 "What payment methods do you accept?"
 "Can I cancel my order?"
 "I need a human agent."
-
 
 
 
