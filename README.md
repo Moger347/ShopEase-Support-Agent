@@ -4,17 +4,19 @@ A smart AI-powered customer support chatbot built using Python, Streamlit, and M
 It answers FAQs and can escalate unresolved queries to a human support agent via email.
 
 
+
 🚀 Features
 
 💬 Real-time conversational chatbot  
-🔍 Intelligent FAQ answering (supports similar questions wording)  
-📧 Auto-email escalation to support team  
+🔍 Intelligent FAQ matching (supports similar question wording)  
+📩 Auto-email escalation to support team  
 🧠 Memory of chat history  
-🗂️ Clean UI with reset option  
+🎨 Clean UI with reset option  
 ☁️ Deployable on Streamlit Cloud  
 
 
-💬 Example Queries
+
+💡 Example Queries
 
 Here are some sample questions users can ask the bot:
 
@@ -27,10 +29,13 @@ Here are some sample questions users can ask the bot:
 "I need a human agent."
 
 
+
 📁 Project Structure
+
 ShopEase-Support-Agent/
 │── app.py
 │── faq_data.csv
 │── requirements.txt
+│── escalated_tickets.csv
 │── .streamlit/
-│     └── secrets.toml
+│ └── secrets.toml
