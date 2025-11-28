@@ -29,13 +29,3 @@ Here are some sample questions users can ask the bot:
 "I need a human agent."
 
 
-
-📁 Project Structure
-
-ShopEase-Support-Agent/
-│── app.py
-│── faq_data.csv
-│── requirements.txt
-│── escalated_tickets.csv
-│── .streamlit/
-│ └── secrets.toml
