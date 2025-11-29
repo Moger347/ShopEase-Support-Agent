@@ -38,11 +38,6 @@ Here are some sample questions users can ask the bot:
 
 ---
 
-## 🏗️ System Architecture
-
-The diagram below represents how the AI Support Assistant processes user queries and escalates unanswered tickets to email:
-
-![Architecture](assets/screenshots/architecture.png)
-
+![Architecture](assets/screenshots/architecture.PNG)
 
 
