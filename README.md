@@ -62,8 +62,8 @@ This project integrates several external services and internal API mechanisms to
 **Sample Secret File Format (`.streamlit/secrets.toml`):**
 
 toml
-SUPPORT_EMAIL="your-email@gmail.com"
-APP_PASSWORD="your-app-password"
+SUPPORT_EMAIL="shopeasecustomerhelp@gmail.com"
+APP_PASSWORD="aqvpuiwcfamkhyxn"
 
 
 
