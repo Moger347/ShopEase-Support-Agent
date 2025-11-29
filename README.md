@@ -28,4 +28,11 @@ Here are some sample questions users can ask the bot:
 - Can I cancel my order?
 - I need a human agent.
 
+
+🚀 Live Demo:  
+🔗 https://shopease-support-agent-qethwc7xxdpnhjdycrcdcz.streamlit.app/
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shopease-support-agent-qethwc7xxdpnhjdycrcdcz.streamlit.app/)
+
+
 ---
