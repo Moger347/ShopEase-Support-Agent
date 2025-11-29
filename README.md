@@ -30,6 +30,22 @@ This project is built using a combination of modern tools and technologies to de
 
 ---
 
+---
+
+## 🔗 APIs & Services Used
+
+- ✉️ **Gmail SMTP Service**
+  - Used to send escalation emails when chatbot cannot answer a customer query
+  - Authentication via **Gmail App Password**
+  - Protocol: **SMTP (Simple Mail Transfer Protocol)**
+
+- 🔐 **Streamlit Secrets Manager**
+  - Securely stores API credentials such as email and app password
+  - Prevents sensitive data from being exposed in the code or GitHub repository
+
+---
+
+
 
 
 ## 💡 Example Queries
