@@ -38,8 +38,8 @@ Here are some sample questions users can ask the bot:
 
 ## 🏗️ System Architecture
 
-The architecture diagram represents how the AI Support Assistant processes user queries and escalates unanswered tickets to email
-check screenshot folder for the architecture diagram
+- The architecture diagram represents how the AI Support Assistant processes user queries and escalates unanswered tickets to email
+- check screenshot folder for the architecture diagram
 
 
 
