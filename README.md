@@ -34,14 +34,39 @@ This project is built using a combination of modern tools and technologies to de
 
 ## 🔗 APIs & Services Used
 
-- ✉️ **Gmail SMTP Service**
-  - Used to send escalation emails when chatbot cannot answer a customer query
-  - Authentication via **Gmail App Password**
-  - Protocol: **SMTP (Simple Mail Transfer Protocol)**
+This project integrates several external services and internal API mechanisms to enable chatbot functionality, email escalation, and secure deployment.
 
-- 🔐 **Streamlit Secrets Manager**
-  - Securely stores API credentials such as email and app password
-  - Prevents sensitive data from being exposed in the code or GitHub repository
+---
+
+### ✉️ Gmail SMTP Service
+
+- Used to send escalation emails when the chatbot cannot answer a customer query.
+- Implemented via the built-in Python `smtplib` library.
+- Authenticated using a **Gmail App Password** (not the normal email password).
+- Ensures safe automated communication between the bot and the human support team.
+
+**SMTP Configuration Used:**
+
+| Key | Value |
+|-----|-------|
+| SMTP Server | `smtp.gmail.com` |
+| Port | `465` (SSL) |
+| Authentication | Gmail App Password |
+
+---
+
+### 🔐 Streamlit Secrets Manager API
+
+- Used to securely store and access sensitive information like email credentials.
+- Prevents credentials from being pushed to GitHub.
+- Automatically injected during deployment by Streamlit Cloud.
+
+**Sample Secret File Format (`.streamlit/secrets.toml`):**
+
+```toml
+SUPPORT_EMAIL="your-email@gmail.com"
+APP_PASSWORD="your-app-password"
+
 
 ---
 
@@ -62,6 +87,12 @@ Here are some sample questions users can ask the bot:
 
 ---
 
+## 🏗️ System Architecture
+
+- The architecture diagram represents how the AI Support Assistant processes user queries and escalates unanswered tickets to email
+- check screenshot folder for the architecture diagram
+
+---
 
 ## 🚀 Live Demo:  
 🔗 https://shopease-support-agent-qethwc7xxdpnhjdycrcdcz.streamlit.app/
@@ -70,10 +101,7 @@ Here are some sample questions users can ask the bot:
 
 ---
 
-## 🏗️ System Architecture
 
-- The architecture diagram represents how the AI Support Assistant processes user queries and escalates unanswered tickets to email
-- check screenshot folder for the architecture diagram
 
 
 
