@@ -36,3 +36,13 @@ Here are some sample questions users can ask the bot:
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shopease-support-agent-qethwc7xxdpnhjdycrcdcz.streamlit.app/)
 
+---
+
+## 🏗️ System Architecture
+
+The diagram below represents how the AI Support Assistant processes user queries and escalates unanswered tickets to email:
+
+![Architecture](assets/screenshots/architecture.png)
+
+
+
