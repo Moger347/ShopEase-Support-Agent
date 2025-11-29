@@ -29,7 +29,7 @@ Here are some sample questions users can ask the bot:
 - I need a human agent.
 
 
-# 🛍️ ShopEase AI Support Assistant
+# 
 
 🚀 Live Demo:  
 🔗 https://shopease-support-agent-qethwc7xxdpnhjdycrcdcz.streamlit.app/
