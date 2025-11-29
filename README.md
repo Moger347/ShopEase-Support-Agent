@@ -36,8 +36,6 @@ Here are some sample questions users can ask the bot:
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shopease-support-agent-qethwc7xxdpnhjdycrcdcz.streamlit.app/)
 
----
-
-![Architecture](assets/screenshots/architecture.PNG)
+check screenshot folder for architecture diagram
 
 
