@@ -100,6 +100,19 @@ Here are some sample questions users can ask the bot:
 
 ---
 
+## 🚀 Potential Improvements
+
+Here are a few enhancements that could be added in future versions to make the support assistant smarter and more scalable:
+
+- 🤖 Add semantic search using embeddings (FAISS / Pinecone) for more accurate answers.
+- 🧠 Improve intent detection using NLP or LLM models.
+- 🌍 Support multiple languages for international users.
+- 📩 Integrate with ticketing systems like Zendesk or Freshdesk.
+- 🎨 Enhance UI with typing animations, quick-reply buttons, and message timestamps.
+- 📊 Add analytics to track common questions and escalation trends.
+
+---
+
 
 
 
