@@ -36,6 +36,10 @@ Here are some sample questions users can ask the bot:
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shopease-support-agent-qethwc7xxdpnhjdycrcdcz.streamlit.app/)
 
-check screenshot folder for architecture diagram
+## 🏗️ System Architecture
+
+The architecture diagram represents how the AI Support Assistant processes user queries and escalates unanswered tickets to email
+check screenshot folder for the architecture diagram
+
 
 
