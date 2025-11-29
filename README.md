@@ -44,7 +44,7 @@ Here are some sample questions users can ask the bot:
 - Can I cancel my order?
 - I need a human agent.
 
-
+---
 
 
 ## 🚀 Live Demo:  
