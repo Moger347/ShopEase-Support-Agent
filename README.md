@@ -30,13 +30,11 @@ This project is built using a combination of modern tools and technologies to de
 
 ---
 
----
 
 ## 🔗 APIs & Services Used
 
 This project integrates several external services and internal API mechanisms to enable chatbot functionality, email escalation, and secure deployment.
 
----
 
 ### ✉️ Gmail SMTP Service
 
