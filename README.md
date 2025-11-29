@@ -16,6 +16,22 @@ It answers FAQs and can escalate unresolved queries to a human support agent via
 
 ---
 
+## 🛠️ Tech Stack
+
+This project is built using a combination of modern tools and technologies to deliver an efficient and scalable AI-powered customer support agent.
+
+- 🐍 **Python** – Core programming language  
+- 🎨 **Streamlit** – Interactive frontend for chatbot UI  
+- 📂 **Pandas** – Handling and processing FAQ dataset  
+- 🧠 **difflib** – Fuzzy matching algorithm for intelligent response search  
+- ✉️ **SMTP with Gmail App Password** – Escalates unanswered queries via email  
+- 🔐 **TOML** – Secure credential storage (Streamlit Secrets)  
+- ☁️ **Streamlit Cloud** – Hosting and deployment platform  
+
+---
+
+
+
 ## 💡 Example Queries
 
 Here are some sample questions users can ask the bot:
